@@ -8,7 +8,7 @@ Este site apresenta dados de pesquisas sobre monitoramento digital, autonomia e 
 
 **Repositório:** https://github.com/oVinh/monitoramento-trabalho-hibrido
 
-Página publicada: [URL do GitHub Pages será inserida aqui após a publicação]
+Página publicada: https://ovinh.github.io/monitoramento-trabalho-hibrido/
 
 ## Estrutura de arquivos e diretórios
 
